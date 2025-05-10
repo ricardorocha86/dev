@@ -1,0 +1,14 @@
+[theme]
+base="light"
+primaryColor="#d87933"
+secondaryBackgroundColor="#fff1e8" 
+
+[client]
+toolbarMode = "viewer"
+
+[server]
+runOnSave = true 
+enableStaticServing = true 
+ 
+ 
+ 
